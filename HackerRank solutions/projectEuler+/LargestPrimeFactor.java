@@ -18,7 +18,8 @@ public class Solution {
             System.out.println(calculate(in.nextLong()));
         }
     }
-
+    
+    //O(sqrt(n)) solution
     static long calculate(long n) {
         //divide by 2 until we get an odd number
         while (n % 2 == 0) {
