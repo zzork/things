@@ -11,7 +11,7 @@ public class Solution {
         for (int i = 0; i < s.length() - (k - 1); i++) {
             String sub = s.substring(i, i + k);
             if (smallest.compareTo(sub) > 0) smallest = sub;
-            if (largest.compareTo(sub) < 0) largest = sub;
+            else if (largest.compareTo(sub) < 0) largest = sub;
         }
         return smallest + "\n" + largest;
     }
