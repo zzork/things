@@ -31,7 +31,7 @@ public class Solution {
         return a + b - c;
     }
     
-    //O(n)
+    //O(n) solution, left for comparison
     static int calculateIteratively(int n) {
         int total = 0;
         for (int i = 3; i < n; i += 3) {
