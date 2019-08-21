@@ -7,7 +7,6 @@
  * Full problem statement: https://www.hackerrank.com/challenges/java-bitset/problem
  */
  
-import java.io.*;
 import java.util.*;
 import java.util.function.*;
 
