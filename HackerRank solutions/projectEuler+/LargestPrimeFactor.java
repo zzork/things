@@ -3,11 +3,7 @@
  * What is the largest prime factor of a given number N?
  */
  
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.Scanner;
 
 public class Solution {
 
