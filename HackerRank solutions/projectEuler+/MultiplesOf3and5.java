@@ -3,11 +3,7 @@
  * Find the sum of all the multiples of 3 or 5 below N.
  */
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.Scanner;
 
 public class Solution {
 
