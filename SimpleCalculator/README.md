@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/zzork/things/blob/master/SimpleCalculator/Screenshot.png?raw=true)
 
-Simple calculator, created while learning JavaFX. Supports basic operations (+, -, *, /) on numbers of arbitrary size.
+Simple calculator, created while learning JavaFX. Supports basic operations (+ - * /) on numbers of arbitrary size.
 
 UI built using SceneBuilder and styled using CSS.
 
