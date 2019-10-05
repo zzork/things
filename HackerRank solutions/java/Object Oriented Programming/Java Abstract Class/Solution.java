@@ -1,5 +1,4 @@
-/* 
- * In the editor, we have provided the abstract Book class and a Main class. In the Main class, we created an instance of a class called 
+/* In the editor, we have provided the abstract Book class and a Main class. In the Main class, we created an instance of a class called 
  * MyBook. Your task is to write just the MyBook class.
  */
  
