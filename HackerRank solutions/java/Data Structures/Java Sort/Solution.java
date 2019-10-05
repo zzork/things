@@ -3,6 +3,8 @@
  * two students also have the same first name, then order them according to their ID. No two students have the same ID.
  *
  * For more detail see: https://www.hackerrank.com/challenges/java-sort/problem
+ *
+ * (Indentation doesn't seem to be working correctly for this file)
  */
 
 
@@ -62,12 +64,13 @@ class Solution
 			
 			      testCases--;
 		    }
+		  
         Collections.sort(studentList, new StudentComparator());
       
         for(Student st: studentList){
 		        System.out.println(st.getFname());
-		    }
-	  }
+		}
+	}
 }
 
 
