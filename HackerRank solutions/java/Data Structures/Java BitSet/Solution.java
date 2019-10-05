@@ -4,7 +4,7 @@
  * Given 2 BitSets, B1 and B2, of size N where all bits in both BitSets are initialized to 0, perform a series of M operations. After each 
  * operation, print the number of set bits in the respective BitSets as two space-separated integers on a new line.
  *
- * Full problem statement: https://www.hackerrank.com/challenges/java-bitset/problem
+ * For more detail see: https://www.hackerrank.com/challenges/java-bitset/problem
  */
  
 import java.util.*;
