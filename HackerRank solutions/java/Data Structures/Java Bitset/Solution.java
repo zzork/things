@@ -17,7 +17,8 @@ public class Solution {
         int n = in.nextInt(), m = in.nextInt();
         BitSet[] bitSets = new BitSet[] {new BitSet(n), new BitSet(n)};
         HashMap<String, BiConsumer<Integer, Integer>> cmd = new HashMap<String, BiConsumer<Integer, Integer>>();
-        
+            
+        // Use lambas in place of functional interface
         cmd.put("AND", (a, b) -> bitSets[a-1].and(bitSets[b-1]));
         cmd.put("OR", (a, b) -> bitSets[a-1].or(bitSets[b-1]));
         cmd.put("XOR", (a, b) -> bitSets[a-1].xor(bitSets[b-1]));
