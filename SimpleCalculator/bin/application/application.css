@@ -1,0 +1,28 @@
+.button {
+	-fx-background-color: rgb(34, 49, 63);
+	-fx-background-radius:0;
+	-fx-font-size: 30px;
+	-fx-text-fill: rgb(228, 241, 254);
+}
+
+.button:hover {
+	-fx-background-color: rgb(137, 196, 244);	
+}
+
+.button:armed {
+	-fx-background-color: rgb(137, 196, 244);
+}
+
+.digit {
+	-fx-font-weight: 500;
+}
+
+.operator {
+	-fx-font-weight: 200;
+}
+
+#readout {
+	-fx-background-color: rgb(36, 37, 42);
+	-fx-font-size: 35px;
+	-fx-text-fill: rgb(228, 241, 254);
+}
