@@ -1,4 +1,4 @@
-Solutions to HackerRank problems. Most solutions are written in Java, with some in Python. All solutions solved for 100% of test cases.
+Solutions to HackerRank problems. Most solutions are written in Java, with some in Python. All solutions solve for 100% of test cases.
 
 Problems are usually evaluated by feeding input into STDIN and checking solutions printed to STDOUT. The code for reading input is often 
 provided; sometimes the code for printing output is provided as well. I've included this code where possible to give a complete picture
