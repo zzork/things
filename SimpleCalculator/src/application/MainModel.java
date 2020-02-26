@@ -26,7 +26,7 @@ public class MainModel implements Calculator{
 	// The current state of the calculator
 	private State state;
 	
-	//this comment does nothing
+	
 	
 	private enum State {
 		// Initial state - nothing entered
